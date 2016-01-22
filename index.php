@@ -1,2 +1,1 @@
-<?php echo date( "Y/m/d (D) H:i:s", time() ) ?>
-<?php phpinfo(); ?>
+Hello World
